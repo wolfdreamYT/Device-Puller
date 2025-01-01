@@ -1,0 +1,45 @@
+
+pip install ipinfo
+
+pip install requests
+
+Remember to install these in the file directory terminal BEFORE use
+
+You can do so by installing VS Code (Visual Studio Code) since they have a built in terminal 
+you can easily use. If you dont or dont want to install, then get out of here becuase this is for real coders 
+and developers who have the skills.
+
+Sorr for my grammer, i am typing fast since i am rushed, but hope you enjoy!
+
+To start:
+
+python3 main.py
+
+when it finishes, it should say "device is reachable", if it says "device unreachable" then its
+a fail and the device does not use a OS (windows, macOS, linux, darwin, etc) and therefor cannot pull info
+it will give you this if it fully works and the IP is from a real device: 
+I did not add the geo info for obvious reasons, but the -- is just an example, though
+you will see totally different info that is actually for the given IP, you can see and try some in sample-ip.txt
+
+
+enter IP: (you will put your IP you want to pull info from here)
+(Ip you entered goes here) is reachable.
+
+Device Info:
+Hostname: 23.83.224.37.16clouds.com
+IP Address: 23.83.224.37
+OS Info: Darwin 24.3.0
+Online Status: Online
+Local Time: 2024-12-31 22:22:37
+GeoIP Info:
+  IP: 23.83.224.37
+  Hostname: 
+  City: --
+  Region: --
+  Country: --
+  Location: --
+  Organization: --
+  Postal: --
+  Timezone: --
+
+
